@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body background="ba.jfif">
+    <center>
+
+  
+    <h1>Pictures Gallery</h1>
+    <img src="Shaan Masood.jfif" height="200" width="200"></a>
+    <img src="babar azam.jfif" height="200" width="200">
+    <img src="Faheem Ashraf.jfif" height="200" width="200">
+    <img src="Azhar Ali.jfif" height="200" width="200">
+    <img src="Sarfraz Ahmed.jfif" height="200" width="200">
+    <img src="Shaheen Afridi.jfif" height="200" width="200">
+    <br>
+    <img src="Asif Ali.jfif" height="200" width="200">
+    <img src="Iftakhar Ahmed.jfif" height="200" width="200">
+    <img src="Mohamed Rizwan.jfif" height="200" width="200">
+    <img src="Haider Ali.jfif" height="200" width="200">
+    <img src="Mohamed Wasim.jfif" height="200" width="200">
+    <img src="Shadab Khan.jfif" height="200" width="200">
+
+
+</center>
+</body>
+</html>
